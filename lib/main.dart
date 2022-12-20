@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quizzlerslevin_20122022/question.dart';
+
 
 void main() => runApp(Quizzler());
 
@@ -36,8 +36,6 @@ class _QuizPageState extends State<QuizPage> {
   List<bool> answers = [false, true, true];
 
 
-  Question q1 = Question(
-      q: 'You can lead a cow down stairs but not up stairs.?', a: false);
 
 
 

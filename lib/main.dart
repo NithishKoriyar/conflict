@@ -33,7 +33,7 @@ class _QuizPageState extends State<QuizPage> {
     'A slug\'s blood is green.?',
   ];
 
-  List<bool> answers = [false, true, true];
+  List<bool> answers = [false, false, false];
 
 
 

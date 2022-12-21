@@ -34,6 +34,7 @@ class _QuizPageState extends State<QuizPage> {
   ];
 
   List<bool> answers = [false, false, false];
+  List<bool> answer = [true, true, true];
 
 
 
